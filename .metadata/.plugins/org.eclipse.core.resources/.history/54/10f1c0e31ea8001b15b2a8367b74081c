@@ -1,0 +1,5 @@
+package com.java.springdemo.rest;
+
+public class StudentRestExceptionhandler {
+
+}

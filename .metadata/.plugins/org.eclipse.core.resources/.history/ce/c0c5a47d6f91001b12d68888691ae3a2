@@ -1,0 +1,55 @@
+package com.java.Interfaceeg;
+
+interface abc
+{
+	void show();
+}
+/*interface def /// mutiple inheritance 
+{
+	void call();
+}
+class xyz implements abc,def
+{
+
+	@Override
+	public void show() {
+		// TODO Auto-generated method stub
+		System.out.println("running................");
+		
+	}
+
+	@Override
+	public void call() {
+		// TODO Auto-generated method stub
+		System.out.println("running.....");
+		
+	}
+	
+}*/
+
+/*// marker interface : empty interface
+//single abstarct method :one method called as functional interface
+//normal interface :
+*/
+public class Telusko {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		/*abc a=new abc()
+		{
+			public void show()
+			{
+				System.out.println("show..");
+			}
+		};*/
+		abc a=()
+				{
+			System.out.println("show..........");
+				}
+				;
+		a.show();
+		
+
+	}
+
+}

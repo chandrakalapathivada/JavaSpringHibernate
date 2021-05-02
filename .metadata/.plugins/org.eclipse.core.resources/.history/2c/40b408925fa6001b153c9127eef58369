@@ -1,0 +1,15 @@
+package com.java.springdemo.dao;
+
+import java.util.List;
+
+import com.java.springdemo.enity.Customer;
+
+public class CustomerDAOImpl implements CustomerDAO {
+
+	@Override
+	public List<Customer> getCustomers() {
+		
+		return null;
+	}
+
+}

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="G:\Spring_docs\mycoolapp"/>
+			<item value="G:\Spring_docs\spring-rest-demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="E:\JavaBasic\spring-rest-demo\src\main\java\com\java\springdemo\rest\DemoRestController.java"/>
+			<item value="E:\JavaBasic\SpringRest"/>
+			<item value="E:\JavaBasic\web_customer_tracker\src\com\java\springdemo\service\CustomerServiceImpl.java"/>
+			<item value="E:\JavaBasic\SpringMVCExample1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.java.spring_rest_demo2"/>
+			<item value="com.java.spring_rest_demo"/>
+			<item value="com.java.SpringRest"/>
+			<item value="com.springmvc.SpringMvcApplication"/>
+			<item value="com.jdbceg.First"/>
+			<item value="com.javatpoint"/>
+			<item value="com.javapoint"/>
+			<item value="javatpoint.SpringMVC"/>
+			<item value="Demo.DemoMavenProject"/>
+			<item value="Demo"/>
+			<item value="Demo.DemoMavenEcllipseProject"/>
+		</list>
+		<list key="groupId">
+			<item value="com.java"/>
+			<item value="com.springmvc"/>
+			<item value="com.jdbceg"/>
+			<item value="javatpoint"/>
+			<item value="javapoint"/>
+			<item value="Demo"/>
+		</list>
+		<list key="artifactId">
+			<item value="spring-rest-demo2"/>
+			<item value="spring-rest-demo"/>
+			<item value="SpringRest"/>
+			<item value="SpringMvcApplication"/>
+			<item value="First"/>
+			<item value="SpringMVCEgformultipleview"/>
+			<item value="SpringMVCExample1"/>
+			<item value="SpringMVCEg"/>
+			<item value="SpringMVCExample"/>
+			<item value="SpringMVC"/>
+			<item value="SpringMvc"/>
+			<item value="DemoMavenProject"/>
+			<item value="DemoMavenEcllipseProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+			<item value="0.1"/>
+		</list>
+	</section>
+</section>

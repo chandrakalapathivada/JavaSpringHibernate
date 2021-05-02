@@ -1,0 +1,27 @@
+package com.java.Interfaceeg;
+
+interface abc
+{
+	void show();
+}
+class xyz implements abc
+{
+
+	@Override
+	public void show() {
+		// TODO Auto-generated method stub
+		System.out.println("running................");
+		
+	}
+	
+}
+public class Telusko {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		xyz a=new xyz();
+		a.show();
+
+	}
+
+}

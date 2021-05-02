@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="GitCommitMessageComponent">
+		<list key="E:\JavaBasic\JavaPrograms\.git">
+			<item value="false"/>
+			<item value="chandrakalapathivada999@gmail.com"/>
+			<item value="Java Programs"/>
+			<item value="chandrakalapathivada999@gmail.com"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>

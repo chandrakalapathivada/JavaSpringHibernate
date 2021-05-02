@@ -1,0 +1,41 @@
+package com.java.interview;
+
+class Add
+{
+	/*static int add(int a, int b)// changing no of arguments
+	{
+		return a+b;
+	}
+	static int add(int a, int b, int c)
+	{
+		return a+b+c;
+	}*/
+	/*static int add(int a, int b)// changing datatype
+	{
+		return a+b;
+	}
+	static double add(double a, double b, double c)
+	{
+		return a+b+c;
+	}*/
+	/*static int add(int a, int b)// changing return type
+	{
+		return a+b;
+	}
+	static double add(int a, int b)
+	{
+		return a+b;
+	}*/
+}
+public class MethodOverloading {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(Add.add(1, 2)); 
+		// because of ambiguity problem, 
+		//we are not able to achieve method overloading by changing the return type.
+
+
+	}
+
+}

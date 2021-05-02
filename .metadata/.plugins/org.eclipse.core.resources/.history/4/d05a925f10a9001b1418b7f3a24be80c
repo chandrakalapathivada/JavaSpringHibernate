@@ -1,0 +1,24 @@
+package com.java.exception;
+
+public class MutilpleCatch {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Demo d=null;
+		try
+		{
+			
+		}
+		catch(NullPointerException e)
+		{
+			System.out.println(e.getMessage());
+			
+		}
+		catch(Exception ex)
+		{
+			System.out.println();
+		}
+
+	}
+
+}
